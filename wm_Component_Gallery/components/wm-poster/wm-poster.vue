@@ -35,7 +35,7 @@ export default {
 		},
 		PriceTxt:{		//价格值
 			Type:String,
-			default:'1220'
+			default:'99.99'
 		},
 		PriceColor:{	//价格颜色
 			Type:String,
@@ -43,7 +43,7 @@ export default {
 		},
 		OriginalTxt:{	//原价值
 			Type:String,
-			default:'3330.00'
+			default:'199.99'
 		},
 		OriginalColor:{	//默认颜色（如原价与扫描二维码颜色）
 			Type:String,
