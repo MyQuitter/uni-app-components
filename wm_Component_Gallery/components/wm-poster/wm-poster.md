@@ -12,7 +12,7 @@ canvas生成海报,适用于商城海报分享功能
     }
 ```
 
-#### 在 ``template`` 中适用组件:
+#### 在 ``template`` 中使用组件:
 
 ```html
     <wm-poster imgSrc="图片链接地址" QrSrc="二维码链接地址" Title="标题文本" PriceTxt="价格显示" OriginalTxt="划线价显示"></wm-poster>
