@@ -27,7 +27,7 @@ canvas生成海报,适用于商城海报分享功能
 | QrSrc | String | 无 | 二维码或太阳码链接 |
 | Title | String | 无 | 商品展示标题文本 |
 | TitleColor | String | #333333 | 商品展示标题颜色 |
-| LineType | [String,Boolean] | true | 标题显示行数控制,true(最多显示两行多余用...),false(不做限制) |
+| LineType | [String,Boolean] | true | 标题显示行数控制,  true(最多显示两行多余用...),  false(不做限制) |
 | PriceTxt | String | 99.99 | 商品销售价 |
 | PriceColor | String | #e31d1a | 商品销售价颜色 |
 | OriginalTxt | String | 199.99 | 商品划线价 |
