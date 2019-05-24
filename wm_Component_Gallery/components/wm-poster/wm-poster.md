@@ -29,8 +29,8 @@ canvas生成海报,适用于商城海报分享功能
 | TitleColor | String | #333333 | 商品展示标题颜色 |
 | LineType | [String,Boolean] | true | 标题显示行数控制,true(最多显示两行多余用...),false(不做限制) |
 | PriceTxt | String | 99.99 | 商品销售价 |
-| PriceColor | String | 199.99 | 商品销售价颜色 |
-| OriginalTxt | String | #333333 | 商品划线价 |
+| PriceColor | String | #e31d1a | 商品销售价颜色 |
+| OriginalTxt | String | 199.99 | 商品划线价 |
 | OriginalColor | String | #b8b8b8 | 默认颜色（如划线价与扫描二维码提示颜色） |
 | Width | String | 750 | canvas画布宽度  (高度根据图片比例计算 单位upx) |
 | CanvasBg | String | #ffffff | canvas画布背景色 |
