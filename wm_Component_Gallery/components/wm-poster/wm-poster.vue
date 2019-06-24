@@ -100,7 +100,7 @@ export default {
 			_this.ctx.fillRect(0, 0, C_W, _this.canvasH); //canvas画布大小
 			
 			//添加图片展示
-			_this.ctx.drawImage(_this.imgSrc, C_P, C_P, r[0], r[1]);
+			_this.ctx.drawImage(_imgInfo.path, C_P, C_P, r[0], r[1]);
 			//添加图片展示 end
 
 			//设置文本
@@ -159,7 +159,7 @@ export default {
 
 			//添加二维码
 			_strHeight += uni.upx2px(20);
-			_this.ctx.drawImage(_this.QrSrc, r[0] - q[0] + C_P, _strHeight, q[0], q[1]);
+			_this.ctx.drawImage(_QrCode.path, r[0] - q[0] + C_P, _strHeight, q[0], q[1]);
 			//添加二维码 end
 
 			//添加推荐人与描述
