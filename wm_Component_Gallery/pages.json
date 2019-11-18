@@ -11,7 +11,13 @@
             "style" : {
 				"navigationBarTitleText":"canvas生成海报演示"
 			}
-        }
+        },
+		{
+			"path":"pages/demo/AddCart",
+			"style":{
+				"navigationBarTitleText":"添加商品"
+			}
+		}
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
